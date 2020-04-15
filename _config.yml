@@ -17,20 +17,20 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: #
+    # twitter: #
     github:  Eleanor-19
-    linkedIn: #
-    rss: rss
+    # linkedIn: #
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: aditijaiswal5877
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
+    # telegram: ditijaiswal
     # googleplus: +jekyll
     # microdotblog: jekyll
 
